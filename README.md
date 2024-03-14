@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bitopan Talukdar. @bitopan-tal
 - 👀 I’m interested in programing languages, graphics designing, content creating, photography etc.
-- 🌱 I’m currently learning Web Development(basic) and OOPS in advance level
+- 🌱 I’m currently learning Web Development(basic) and OOPS
 - 💞️ I’m looking to collaborate on Website design for local shopkeepers which are now grabbing the majority market in their domain
 - 📫 How to reach me??? just mail at bitopan.tal@gmail.com
 - 😄 Pronouns: He
